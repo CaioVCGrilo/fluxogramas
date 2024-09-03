@@ -1,9 +1,97 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.10">
   <diagram name="Página-1" id="ewrrQE76uH3iwXRkuv1P">
-    <mxGraphModel>
+    <mxGraphModel dx="1678" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Wu201LrOJQDMjZL40oph-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="Wu201LrOJQDMjZL40oph-2" target="Wu201LrOJQDMjZL40oph-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wu201LrOJQDMjZL40oph-2" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;Aquisition of VI with 3-cycle rotating buffer&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="161" y="90" width="150" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="Wu201LrOJQDMjZL40oph-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="Wu201LrOJQDMjZL40oph-4" target="Wu201LrOJQDMjZL40oph-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wu201LrOJQDMjZL40oph-4" value="&lt;pre&gt;&lt;font style=&quot;font-weight: normal; font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;Begin&lt;/font&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="186" y="18" width="100" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="Wu201LrOJQDMjZL40oph-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="Wu201LrOJQDMjZL40oph-9" target="Wu201LrOJQDMjZL40oph-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wu201LrOJQDMjZL40oph-6" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Wu201LrOJQDMjZL40oph-5">
+          <mxGeometry x="-0.1691" y="1" relative="1" as="geometry">
+            <mxPoint x="-3" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wu201LrOJQDMjZL40oph-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryX=0.946;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Wu201LrOJQDMjZL40oph-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="302.5" y="162" as="targetPoint" />
+            <mxPoint x="282" y="226.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="282" y="219" />
+              <mxPoint x="303" y="219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wu201LrOJQDMjZL40oph-8" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Wu201LrOJQDMjZL40oph-7">
+          <mxGeometry x="0.3072" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wu201LrOJQDMjZL40oph-9" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;Fault&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;detection&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;?&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="180.5" y="174" width="111" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Wu201LrOJQDMjZL40oph-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="Wu201LrOJQDMjZL40oph-14" target="Wu201LrOJQDMjZL40oph-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wu201LrOJQDMjZL40oph-11" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Subtransmission&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Wu201LrOJQDMjZL40oph-10">
+          <mxGeometry x="0.2436" relative="1" as="geometry">
+            <mxPoint x="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wu201LrOJQDMjZL40oph-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="Wu201LrOJQDMjZL40oph-14" target="Wu201LrOJQDMjZL40oph-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wu201LrOJQDMjZL40oph-13" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Overhead lines&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Wu201LrOJQDMjZL40oph-12">
+          <mxGeometry x="-0.0862" y="-1" relative="1" as="geometry">
+            <mxPoint x="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wu201LrOJQDMjZL40oph-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Identify whether the fault is on an interconnection line or an internal overhead line&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="142.5" y="303" width="187" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wu201LrOJQDMjZL40oph-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Wu201LrOJQDMjZL40oph-16" target="Wu201LrOJQDMjZL40oph-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="117" y="590" />
+              <mxPoint x="236" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wu201LrOJQDMjZL40oph-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Fault location using phasor-based methods&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="30" y="426" width="174" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wu201LrOJQDMjZL40oph-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wu201LrOJQDMjZL40oph-18" target="Wu201LrOJQDMjZL40oph-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wu201LrOJQDMjZL40oph-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Extraction of features F1 - F7 from the second buffer cycle&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="252" y="426" width="187" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wu201LrOJQDMjZL40oph-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Wu201LrOJQDMjZL40oph-20" target="Wu201LrOJQDMjZL40oph-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="346" y="590" />
+              <mxPoint x="236" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wu201LrOJQDMjZL40oph-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Determine the faulted branch using ML&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="252" y="504" width="187" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wu201LrOJQDMjZL40oph-23" value="&lt;pre&gt;&lt;font style=&quot;font-weight: normal; font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;End&lt;/font&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="186" y="610" width="100" height="41" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
