@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.14">
   <diagram name="Página-1" id="QsBlmo5zc3FLVjuJQzoX">
-    <mxGraphModel dx="1391" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="963" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,6 +118,52 @@
         </mxCell>
         <mxCell id="IFKSleBwM63tv5aVSCFu-53" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Fim&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="670" y="310" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IFKSleBwM63tv5aVSCFu-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IFKSleBwM63tv5aVSCFu-65" target="IFKSleBwM63tv5aVSCFu-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IFKSleBwM63tv5aVSCFu-65" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Início&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="926" y="40" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IFKSleBwM63tv5aVSCFu-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IFKSleBwM63tv5aVSCFu-74" target="IFKSleBwM63tv5aVSCFu-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="985.9999999999998" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1070" y="305" />
+              <mxPoint x="1070" y="110" />
+              <mxPoint x="1166" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IFKSleBwM63tv5aVSCFu-74" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Transformada wavelet discreta&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="926" y="270" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IFKSleBwM63tv5aVSCFu-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IFKSleBwM63tv5aVSCFu-76" target="IFKSleBwM63tv5aVSCFu-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IFKSleBwM63tv5aVSCFu-76" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Detecção dos instantes T&lt;sub&gt;a&lt;/sub&gt; e T&lt;sub&gt;b&lt;/sub&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1091" y="130" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IFKSleBwM63tv5aVSCFu-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IFKSleBwM63tv5aVSCFu-78" target="IFKSleBwM63tv5aVSCFu-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IFKSleBwM63tv5aVSCFu-78" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Estimação da distância&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1091" y="210" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IFKSleBwM63tv5aVSCFu-79" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Fim&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1106" y="290" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IFKSleBwM63tv5aVSCFu-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IFKSleBwM63tv5aVSCFu-81" target="IFKSleBwM63tv5aVSCFu-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IFKSleBwM63tv5aVSCFu-81" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;V&lt;sub&gt;a,b,c&lt;/sub&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="931" y="110" width="110" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="IFKSleBwM63tv5aVSCFu-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IFKSleBwM63tv5aVSCFu-83" target="IFKSleBwM63tv5aVSCFu-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IFKSleBwM63tv5aVSCFu-83" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Transformação modal&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="919" y="190" width="134" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
