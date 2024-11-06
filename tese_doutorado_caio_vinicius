@@ -1,26 +1,26 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.4">
   <diagram name="Página-1" id="H_jGGH_RptY1vSkWe282">
-    <mxGraphModel dx="983" dy="539" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="1116" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4LhidhPeLa9tMTdn2rAU-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
-          <mxGeometry x="110" y="405" width="620" height="354" as="geometry" />
+          <mxGeometry x="110" y="387" width="620" height="354" as="geometry" />
         </mxCell>
         <mxCell id="4LhidhPeLa9tMTdn2rAU-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
-          <mxGeometry x="110" y="220" width="620" height="180" as="geometry" />
+          <mxGeometry x="110" y="202" width="620" height="180" as="geometry" />
         </mxCell>
         <mxCell id="4LhidhPeLa9tMTdn2rAU-4" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Classificação da falta&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;spacingLeft=5;spacingTop=2;" vertex="1" parent="1">
-          <mxGeometry x="110" y="221" width="190" height="30" as="geometry" />
+          <mxGeometry x="110" y="203" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4LhidhPeLa9tMTdn2rAU-13" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Localização da falta&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;spacingLeft=5;spacingTop=2;" vertex="1" parent="1">
-          <mxGeometry x="110" y="405" width="190" height="60" as="geometry" />
+          <mxGeometry x="110" y="387" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q-PRmDG-u3hG0rMNMxuu-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
           <mxGeometry x="310" y="90" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4LhidhPeLa9tMTdn2rAU-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
-          <mxGeometry x="110" y="764" width="620" height="216" as="geometry" />
+          <mxGeometry x="110" y="746" width="620" height="216" as="geometry" />
         </mxCell>
         <mxCell id="4LhidhPeLa9tMTdn2rAU-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q-PRmDG-u3hG0rMNMxuu-1" target="q-PRmDG-u3hG0rMNMxuu-2">
           <mxGeometry relative="1" as="geometry" />
@@ -57,50 +57,50 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q-PRmDG-u3hG0rMNMxuu-5" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Banco de dados disponível e treinamento realizado ?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;spacingBottom=-17;spacingRight=35;spacingLeft=35;spacing=1;spacingTop=-16;" parent="1" vertex="1">
-          <mxGeometry x="270" y="235" width="300" height="80" as="geometry" />
+          <mxGeometry x="270" y="217" width="300" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4LhidhPeLa9tMTdn2rAU-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q-PRmDG-u3hG0rMNMxuu-6" target="4LhidhPeLa9tMTdn2rAU-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="220" y="370" />
-              <mxPoint x="420" y="370" />
+              <mxPoint x="220" y="352" />
+              <mxPoint x="420" y="352" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="q-PRmDG-u3hG0rMNMxuu-6" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Método deterministico&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="120" y="321" width="200" height="30" as="geometry" />
+          <mxGeometry x="120" y="303" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4LhidhPeLa9tMTdn2rAU-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q-PRmDG-u3hG0rMNMxuu-7" target="4LhidhPeLa9tMTdn2rAU-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="620" y="370" />
-              <mxPoint x="420" y="370" />
+              <mxPoint x="620" y="352" />
+              <mxPoint x="420" y="352" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="q-PRmDG-u3hG0rMNMxuu-7" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Abordagem inteligente&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="520" y="321" width="200" height="30" as="geometry" />
+          <mxGeometry x="520" y="303" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4LhidhPeLa9tMTdn2rAU-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q-PRmDG-u3hG0rMNMxuu-12" target="q-PRmDG-u3hG0rMNMxuu-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q-PRmDG-u3hG0rMNMxuu-12" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Estimação métodos único terminal&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="341" y="675" width="160" height="40" as="geometry" />
+          <mxGeometry x="341" y="657" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4LhidhPeLa9tMTdn2rAU-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="q-PRmDG-u3hG0rMNMxuu-15" target="q-PRmDG-u3hG0rMNMxuu-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q-PRmDG-u3hG0rMNMxuu-15" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Redução da múltipla estimação&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="544" y="885" width="160" height="40" as="geometry" />
+          <mxGeometry x="544" y="867" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4LhidhPeLa9tMTdn2rAU-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q-PRmDG-u3hG0rMNMxuu-16" target="q-PRmDG-u3hG0rMNMxuu-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q-PRmDG-u3hG0rMNMxuu-16" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Distância e local estimado&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="361" y="925" width="120" height="40" as="geometry" />
+          <mxGeometry x="361" y="907" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q-PRmDG-u3hG0rMNMxuu-17" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Fim&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="361" y="996" width="120" height="32" as="geometry" />
+          <mxGeometry x="361" y="978" width="120" height="32" as="geometry" />
         </mxCell>
         <mxCell id="4LhidhPeLa9tMTdn2rAU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4LhidhPeLa9tMTdn2rAU-10" target="4LhidhPeLa9tMTdn2rAU-11">
           <mxGeometry relative="1" as="geometry" />
@@ -119,27 +119,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4LhidhPeLa9tMTdn2rAU-10" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Banco de dados disponível e treinamento realizado ?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;spacingBottom=-17;spacingRight=35;spacingLeft=35;spacing=1;spacingTop=-16;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="270" y="419" width="300" height="80" as="geometry" />
+          <mxGeometry x="270" y="401" width="300" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4LhidhPeLa9tMTdn2rAU-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4LhidhPeLa9tMTdn2rAU-11" target="4LhidhPeLa9tMTdn2rAU-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4LhidhPeLa9tMTdn2rAU-11" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Métodos deterministico&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="120" y="496" width="200" height="33" as="geometry" />
+          <mxGeometry x="120" y="478" width="200" height="33" as="geometry" />
         </mxCell>
         <mxCell id="4LhidhPeLa9tMTdn2rAU-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4LhidhPeLa9tMTdn2rAU-12" target="q-PRmDG-u3hG0rMNMxuu-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="625" y="744" />
-              <mxPoint x="421" y="744" />
+              <mxPoint x="625" y="726" />
+              <mxPoint x="421" y="726" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4LhidhPeLa9tMTdn2rAU-12" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Estimação utilizando algoritmos inteligêntes&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="540" y="675" width="170" height="40" as="geometry" />
+          <mxGeometry x="540" y="657" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4LhidhPeLa9tMTdn2rAU-15" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Redução da múltipla estimação&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;spacingLeft=5;spacingTop=2;" vertex="1" parent="1">
-          <mxGeometry x="110" y="764" width="190" height="60" as="geometry" />
+          <mxGeometry x="110" y="746" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4LhidhPeLa9tMTdn2rAU-20" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;On-line&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;spacingLeft=0;spacingTop=-10;rotation=-90;align=center;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="251.29" y="134.33" width="100.32" height="12.86" as="geometry" />
@@ -161,18 +161,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4LhidhPeLa9tMTdn2rAU-25" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Medições em ambos terminais disponíveis?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;spacingTop=0;spacingLeft=17;spacingRight=20;" vertex="1" parent="1">
-          <mxGeometry x="120" y="557" width="200" height="80" as="geometry" />
+          <mxGeometry x="120" y="539" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4LhidhPeLa9tMTdn2rAU-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q-PRmDG-u3hG0rMNMxuu-9" target="q-PRmDG-u3hG0rMNMxuu-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="220" y="744" />
-              <mxPoint x="421" y="744" />
+              <mxPoint x="220" y="726" />
+              <mxPoint x="421" y="726" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="q-PRmDG-u3hG0rMNMxuu-9" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Estimação com dois terminais&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="140" y="675" width="160" height="40" as="geometry" />
+          <mxGeometry x="140" y="657" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4LhidhPeLa9tMTdn2rAU-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q-PRmDG-u3hG0rMNMxuu-14" target="q-PRmDG-u3hG0rMNMxuu-16">
           <mxGeometry relative="1" as="geometry" />
@@ -191,10 +191,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q-PRmDG-u3hG0rMNMxuu-14" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Distância estimada apresenta problema de múltipla estimação?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;spacingLeft=50;spacingRight=50;spacingTop=-2;" parent="1" vertex="1">
-          <mxGeometry x="264.75" y="780" width="312.5" height="93.5" as="geometry" />
+          <mxGeometry x="264.75" y="762" width="312.5" height="93.5" as="geometry" />
         </mxCell>
         <mxCell id="4LhidhPeLa9tMTdn2rAU-46" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;Off-line&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;spacingLeft=0;spacingTop=-9;rotation=-90;align=center;dashed=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="-279.02" y="592.96" width="760.17" height="14.69" as="geometry" />
+          <mxGeometry x="-279.02" y="574.96" width="760.17" height="14.69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
