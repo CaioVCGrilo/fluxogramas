@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="Página-1" id="H_jGGH_RptY1vSkWe282">
-    <mxGraphModel dx="1214" dy="744" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="419" dy="257" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -434,9 +434,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Feai6JCmHzl9yog57eyD-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;Início&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2840" y="155.00000000000003" width="120" height="24" as="geometry" />
+          <mxGeometry x="2840" y="160.00000000000003" width="120" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="Feai6JCmHzl9yog57eyD-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Feai6JCmHzl9yog57eyD-5" target="Feai6JCmHzl9yog57eyD-24">
+        <mxCell id="Feai6JCmHzl9yog57eyD-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Feai6JCmHzl9yog57eyD-5" target="Feai6JCmHzl9yog57eyD-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Feai6JCmHzl9yog57eyD-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;Aquisição dos sinais trifásicos de corrente&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
@@ -446,37 +446,39 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Feai6JCmHzl9yog57eyD-24" value="&lt;font face=&quot;Times New Roman&quot;&gt;Cálculo da média móvel com janela e passo de 1/8 de ciclo&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2800" y="256" width="200" height="35" as="geometry" />
+          <mxGeometry x="2800" y="300" width="200" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Feai6JCmHzl9yog57eyD-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Feai6JCmHzl9yog57eyD-25" target="Feai6JCmHzl9yog57eyD-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Feai6JCmHzl9yog57eyD-25" value="&lt;font face=&quot;Times New Roman&quot;&gt;Cálculo do limiar adaptativo (Lim&lt;sub&gt;k&lt;/sub&gt;) atrasado de 1/2 ciclo&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2800" y="312" width="200" height="39" as="geometry" />
+          <mxGeometry x="2800" y="350" width="200" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Feai6JCmHzl9yog57eyD-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Feai6JCmHzl9yog57eyD-27" target="Feai6JCmHzl9yog57eyD-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Feai6JCmHzl9yog57eyD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Feai6JCmHzl9yog57eyD-27" target="Feai6JCmHzl9yog57eyD-30">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Feai6JCmHzl9yog57eyD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Feai6JCmHzl9yog57eyD-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2899.9999999999995" y="504.99999999999966" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Feai6JCmHzl9yog57eyD-27" value="&lt;font&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;Comparar o limiar adaptativo com corrente&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;[Lim&lt;/span&gt;&lt;sub style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;k:k+2&lt;/sub&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;] -&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;[I&lt;sub style=&quot;&quot;&gt;k:k+2&lt;/sub&gt;] &amp;lt; 0&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;spacingLeft=30;spacingRight=30;spacingBottom=-7;" vertex="1" parent="1">
-          <mxGeometry x="2800" y="369" width="200" height="100" as="geometry" />
+          <mxGeometry x="2800" y="407" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Feai6JCmHzl9yog57eyD-29" value="&lt;font face=&quot;Times New Roman&quot;&gt;Fim&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2840" y="541" width="120" height="24" as="geometry" />
+          <mxGeometry x="2840" y="574" width="120" height="24" as="geometry" />
         </mxCell>
         <mxCell id="Feai6JCmHzl9yog57eyD-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Feai6JCmHzl9yog57eyD-30" target="Feai6JCmHzl9yog57eyD-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Feai6JCmHzl9yog57eyD-30" value="&lt;p style=&quot;line-height: 70%;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Detecta a falta&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2820" y="489" width="160" height="30" as="geometry" />
+          <mxGeometry x="2820" y="525" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Feai6JCmHzl9yog57eyD-36" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2990" y="417" width="45" height="30" as="geometry" />
+          <mxGeometry x="2990" y="455" width="45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Feai6JCmHzl9yog57eyD-37" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2900" y="462.54" width="40" height="30" as="geometry" />
+          <mxGeometry x="2900" y="498.54" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Feai6JCmHzl9yog57eyD-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Feai6JCmHzl9yog57eyD-39" target="Feai6JCmHzl9yog57eyD-41">
           <mxGeometry relative="1" as="geometry" />
@@ -524,6 +526,12 @@
         </mxCell>
         <mxCell id="Feai6JCmHzl9yog57eyD-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Feai6JCmHzl9yog57eyD-51" target="Feai6JCmHzl9yog57eyD-56">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Feai6JCmHzl9yog57eyD-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Feai6JCmHzl9yog57eyD-60" target="Feai6JCmHzl9yog57eyD-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Feai6JCmHzl9yog57eyD-60" value="&lt;font face=&quot;Times New Roman&quot;&gt;Cálculo das correntes incrementais&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="2800" y="250" width="200" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
