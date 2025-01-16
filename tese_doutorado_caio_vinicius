@@ -578,14 +578,14 @@
         <mxCell id="ttOL-16eVCgxTSeEcBLJ-92" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2730" y="1551" width="272" height="247" as="geometry" />
         </mxCell>
-        <mxCell id="ttOL-16eVCgxTSeEcBLJ-51" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="ttOL-16eVCgxTSeEcBLJ-92">
-          <mxGeometry x="227" y="7" width="45" height="30" as="geometry" />
+        <mxCell id="ttOL-16eVCgxTSeEcBLJ-51" value="&lt;font face=&quot;Times New Roman&quot;&gt;Não&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="ttOL-16eVCgxTSeEcBLJ-92">
+          <mxGeometry x="230" y="8" width="40" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="ttOL-16eVCgxTSeEcBLJ-55" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="ttOL-16eVCgxTSeEcBLJ-92">
-          <mxGeometry x="102" y="148" width="40" height="30" as="geometry" />
+        <mxCell id="ttOL-16eVCgxTSeEcBLJ-55" value="&lt;font face=&quot;Times New Roman&quot;&gt;Sim&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="ttOL-16eVCgxTSeEcBLJ-92">
+          <mxGeometry x="103" y="149" width="38" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="ttOL-16eVCgxTSeEcBLJ-57" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="ttOL-16eVCgxTSeEcBLJ-92">
-          <mxGeometry x="4.5" y="163" width="45" height="30" as="geometry" />
+        <mxCell id="ttOL-16eVCgxTSeEcBLJ-57" value="&lt;font face=&quot;Times New Roman&quot;&gt;Não&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="ttOL-16eVCgxTSeEcBLJ-92">
+          <mxGeometry x="7.5" y="164" width="40" height="28" as="geometry" />
         </mxCell>
         <mxCell id="ttOL-16eVCgxTSeEcBLJ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ttOL-16eVCgxTSeEcBLJ-92" source="ttOL-16eVCgxTSeEcBLJ-68" target="ttOL-16eVCgxTSeEcBLJ-71">
           <mxGeometry relative="1" as="geometry" />
@@ -605,8 +605,8 @@
         <mxCell id="ttOL-16eVCgxTSeEcBLJ-71" value="&lt;p style=&quot;line-height: 70%;&quot;&gt;&lt;font&gt;c = c+1&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;spacingBottom=0;" vertex="1" parent="ttOL-16eVCgxTSeEcBLJ-92">
           <mxGeometry x="25" y="41" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ttOL-16eVCgxTSeEcBLJ-50" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="ttOL-16eVCgxTSeEcBLJ-92">
-          <mxGeometry x="14" y="7" width="40" height="30" as="geometry" />
+        <mxCell id="ttOL-16eVCgxTSeEcBLJ-50" value="&lt;font face=&quot;Times New Roman&quot;&gt;Sim&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="ttOL-16eVCgxTSeEcBLJ-92">
+          <mxGeometry x="15" y="8" width="38" height="28" as="geometry" />
         </mxCell>
         <mxCell id="ttOL-16eVCgxTSeEcBLJ-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ttOL-16eVCgxTSeEcBLJ-92" source="ttOL-16eVCgxTSeEcBLJ-73" target="ttOL-16eVCgxTSeEcBLJ-82">
           <mxGeometry relative="1" as="geometry">
@@ -628,8 +628,8 @@
             <mxPoint x="166" y="65" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ttOL-16eVCgxTSeEcBLJ-78" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="ttOL-16eVCgxTSeEcBLJ-92">
-          <mxGeometry x="134" y="39" width="45" height="30" as="geometry" />
+        <mxCell id="ttOL-16eVCgxTSeEcBLJ-78" value="&lt;font face=&quot;Times New Roman&quot;&gt;Não&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="ttOL-16eVCgxTSeEcBLJ-92">
+          <mxGeometry x="137" y="40" width="40" height="28" as="geometry" />
         </mxCell>
         <mxCell id="ttOL-16eVCgxTSeEcBLJ-82" value="&lt;p style=&quot;line-height: 70%;&quot;&gt;&lt;font&gt;n = n + 1&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;spacingBottom=0;" vertex="1" parent="ttOL-16eVCgxTSeEcBLJ-92">
           <mxGeometry x="112" y="113" width="60" height="20" as="geometry" />
