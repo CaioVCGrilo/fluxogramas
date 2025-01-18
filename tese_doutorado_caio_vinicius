@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.6">
   <diagram name="Página-1" id="H_jGGH_RptY1vSkWe282">
-    <mxGraphModel dx="395" dy="214" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="565" dy="306" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -741,19 +741,19 @@
           <mxGeometry x="3838" y="1443" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="ttOL-16eVCgxTSeEcBLJ-137" value="&lt;font face=&quot;Times New Roman&quot;&gt;Barra S&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="3534" y="1367" width="62" height="30" as="geometry" />
+          <mxGeometry x="3534" y="1373" width="62" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ttOL-16eVCgxTSeEcBLJ-138" value="&lt;font face=&quot;Times New Roman&quot;&gt;Barra R&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="3824" y="1367" width="64" height="30" as="geometry" />
+          <mxGeometry x="3824" y="1373" width="64" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ttOL-16eVCgxTSeEcBLJ-139" value="&lt;font face=&quot;Times New Roman&quot;&gt;Falta&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3684" y="1391" width="52" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ttOL-16eVCgxTSeEcBLJ-149" value="&lt;font face=&quot;Times New Roman&quot;&gt;E&lt;sub&gt;S&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="3443" y="1395" width="34" height="34" as="geometry" />
+          <mxGeometry x="3443" y="1398" width="34" height="34" as="geometry" />
         </mxCell>
         <mxCell id="ttOL-16eVCgxTSeEcBLJ-150" value="&lt;font face=&quot;Times New Roman&quot;&gt;E&lt;span&gt;&lt;sub&gt;R&lt;/sub&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="3939" y="1395" width="36" height="34" as="geometry" />
+          <mxGeometry x="3937" y="1398" width="36" height="34" as="geometry" />
         </mxCell>
         <mxCell id="ttOL-16eVCgxTSeEcBLJ-153" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;IED&lt;/span&gt;&lt;sub style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;S&lt;/sub&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};labelBorderColor=none;fillColor=default;fontSize=14;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="3602" y="1412" width="40" height="20" as="geometry" />
@@ -784,7 +784,7 @@
           <mxGeometry x="3704" y="1442" width="28" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ttOL-16eVCgxTSeEcBLJ-178" value="" style="group;rotation=5;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="3946" y="1436" width="22.76" height="22.49" as="geometry" />
+          <mxGeometry x="3943.62" y="1436.755" width="22.76" height="22.49" as="geometry" />
         </mxCell>
         <mxCell id="ttOL-16eVCgxTSeEcBLJ-179" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.3816276223066356;endAngle=0.6850857967681053;rotation=179;strokeWidth=2;" vertex="1" parent="ttOL-16eVCgxTSeEcBLJ-178">
           <mxGeometry x="9.210599408690394" y="8.41281019481421" width="12.280799211587192" height="13.76641668242325" as="geometry" />
