@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.6">
   <diagram name="Página-1" id="H_jGGH_RptY1vSkWe282">
-    <mxGraphModel dx="712" dy="386" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1213" dy="657" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -797,12 +797,6 @@
         </mxCell>
         <mxCell id="ttOL-16eVCgxTSeEcBLJ-169" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="3700" y="1438" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ttOL-16eVCgxTSeEcBLJ-170" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.30426848593924555;endAngle=0.694216729210609;" vertex="1" parent="1">
-          <mxGeometry x="3344" y="1290" width="8" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="ttOL-16eVCgxTSeEcBLJ-173" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.3064013158610013;endAngle=0.694216729210609;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="3350" y="1296" width="8" height="10" as="geometry" />
         </mxCell>
         <mxCell id="ttOL-16eVCgxTSeEcBLJ-177" value="" style="group;rotation=5;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="3450" y="1436" width="22.76" height="22.49" as="geometry" />
