@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.15">
   <diagram name="Página-1" id="H_jGGH_RptY1vSkWe282">
-    <mxGraphModel dx="309" dy="167" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="630" dy="341" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1482,7 +1482,7 @@
           <mxGeometry x="3665" y="1796" width="64" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r4t1iqfujWFR5e_LjXw5-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;Falta&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="3710" y="1818" width="52" height="30" as="geometry" />
+          <mxGeometry x="3790" y="1756" width="52" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r4t1iqfujWFR5e_LjXw5-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;E&lt;sub&gt;S&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3443" y="1823" width="34" height="34" as="geometry" />
@@ -1496,7 +1496,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r4t1iqfujWFR5e_LjXw5-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash;rotation=10;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="3704" y="1833" width="11" height="22" as="geometry" />
+          <mxGeometry x="3790" y="1774" width="11" height="22" as="geometry" />
         </mxCell>
         <mxCell id="r4t1iqfujWFR5e_LjXw5-15" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;" edge="1" parent="1" source="r4t1iqfujWFR5e_LjXw5-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1746,6 +1746,12 @@
         </mxCell>
         <mxCell id="r4t1iqfujWFR5e_LjXw5-64" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.2959049899720157;endAngle=0.6850857967681053;rotation=10;strokeWidth=2;" vertex="1" parent="r4t1iqfujWFR5e_LjXw5-62">
           <mxGeometry x="0.7675499507241995" width="11.513249260862993" height="13.76641668242325" as="geometry" />
+        </mxCell>
+        <mxCell id="r4t1iqfujWFR5e_LjXw5-90" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash;rotation=10;strokeWidth=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="3782" y="1837.41" width="11" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="r4t1iqfujWFR5e_LjXw5-91" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash;rotation=10;strokeWidth=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="3782" y="1892" width="11" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
