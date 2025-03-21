@@ -1972,10 +1972,10 @@
           <mxGeometry x="4489" y="1391" width="122" height="22" as="geometry" />
         </mxCell>
         <mxCell id="_ne_omoZ-3iG4Uf5i4fD-104" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="4462" y="1395.17" width="34" height="28" as="geometry" />
+          <mxGeometry x="4461" y="1395.17" width="34" height="28" as="geometry" />
         </mxCell>
         <mxCell id="_ne_omoZ-3iG4Uf5i4fD-105" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="4561" y="1404" width="36" height="28" as="geometry" />
+          <mxGeometry x="4545" y="1408.41" width="36" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
