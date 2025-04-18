@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.1.1">
   <diagram name="Página-1" id="H_jGGH_RptY1vSkWe282">
-    <mxGraphModel dx="1333" dy="509" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2296" dy="877" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2096,6 +2096,9 @@
         </mxCell>
         <mxCell id="V__23_XOGr0JaSUH8lpE-7" value="&lt;p&gt;Teste&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;spacingTop=-3;" parent="1" vertex="1">
           <mxGeometry x="5580" y="1399.9999999999998" width="120" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qct9cC-ZPHeJqzBaFXV-1" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Aquisição dados&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3420" y="48" width="350" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
