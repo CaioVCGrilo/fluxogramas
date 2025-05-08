@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="26.2.14">
   <diagram name="Página-1" id="H_jGGH_RptY1vSkWe282">
-    <mxGraphModel dx="2296" dy="877" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6520" dy="3568" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2097,8 +2097,288 @@
         <mxCell id="V__23_XOGr0JaSUH8lpE-7" value="&lt;p&gt;Teste&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;spacingTop=-3;" parent="1" vertex="1">
           <mxGeometry x="5580" y="1399.9999999999998" width="120" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="6Qct9cC-ZPHeJqzBaFXV-1" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Aquisição dados&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6Qct9cC-ZPHeJqzBaFXV-1" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Aquisição dados&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3420" y="48" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;shadow=0;glass=0;fillStyle=auto;fillColor=#f8cecc;strokeColor=light-dark(#030303, #d7817e);fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="8749.369999999999" y="2000.7399999999998" width="393" height="295.76" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;First half&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;segment?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Arial;fontSize=40;strokeWidth=3;shadow=1;spacingTop=1;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="8791.369999999999" y="2056.38" width="309" height="210.74" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;shadow=0;glass=0;fillStyle=auto;fillColor=#fff2cc;strokeColor=light-dark(#000000, #6d5100);fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="7326" y="2212" width="680" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-4" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;shadow=0;glass=0;fillStyle=auto;fillColor=#f8cecc;strokeColor=light-dark(#030303, #d7817e);fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="7486.37" y="1799.12" width="393" height="295.76" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;dashed=1;strokeWidth=3;shadow=0;glass=0;fillStyle=auto;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="8409.369999999999" y="1334.75" width="400" height="600.25" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-6" value="&lt;font&gt;Start&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Arial;fontStyle=1;fontSize=40;horizontal=1;labelBackgroundColor=none;strokeWidth=3;perimeterSpacing=0;shadow=1;gradientColor=none;fillStyle=solid;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="8093.37" y="1126" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-7" value="V&lt;sub&gt;a&lt;/sub&gt;(t), V&lt;sub&gt;b&lt;/sub&gt;(t), V&lt;sub&gt;c&lt;/sub&gt;(t)&amp;nbsp;" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontStyle=1;fontSize=40;horizontal=1;spacing=0;spacingTop=19;shadow=1;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="7988.37" y="1237" width="330" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=25;fontStyle=1;strokeWidth=3;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" edge="1" parent="1" source="mESIo0_xZk16t4dYy4Dm-6" target="mESIo0_xZk16t4dYy4Dm-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-9" value="Modal transformation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;fontStyle=1;strokeWidth=3;shadow=1;glass=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="7988.37" y="1335" width="330" height="89.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=25;fontStyle=1;strokeWidth=3;exitPerimeter=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" edge="1" parent="1" source="mESIo0_xZk16t4dYy4Dm-7" target="mESIo0_xZk16t4dYy4Dm-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8220.380000000001" y="1475" as="sourcePoint" />
+            <mxPoint x="8224.58" y="1521.34" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=25;fontStyle=1;strokeWidth=3;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" edge="1" parent="1" source="mESIo0_xZk16t4dYy4Dm-9" target="mESIo0_xZk16t4dYy4Dm-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8159.37" y="1565" as="sourcePoint" />
+            <mxPoint x="8159.37" y="1615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" edge="1" parent="1" source="mESIo0_xZk16t4dYy4Dm-13" target="mESIo0_xZk16t4dYy4Dm-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8388.369999999999" y="1842" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-13" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font&gt;Capacitor&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font&gt;Banks ?&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Arial;fontSize=40;strokeWidth=3;shadow=1;spacingTop=13;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="7999.12" y="1715" width="308.5" height="211.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" edge="1" parent="1" source="mESIo0_xZk16t4dYy4Dm-13" target="mESIo0_xZk16t4dYy4Dm-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7967.009999999999" y="1839" as="targetPoint" />
+            <mxPoint x="8058.37" y="1959" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-15" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;fontStyle=1;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="7957.87" y="1766" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-16" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=40;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="8288.369999999999" y="1766" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-17" value="Estimate the time of wave front from the energy peak" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;fontStyle=1;strokeWidth=3;shadow=1;glass=0;spacingTop=1;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="8029.37" y="2345.94" width="299" height="201.12" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-18" value="Calculate the fault location" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;fontStyle=1;strokeWidth=3;shadow=1;glass=0;spacingTop=1;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="8028.37" y="2588.25" width="300" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=25;fontStyle=1;strokeWidth=3;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" edge="1" parent="1" source="mESIo0_xZk16t4dYy4Dm-17" target="mESIo0_xZk16t4dYy4Dm-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8133.37" y="2446.5" as="sourcePoint" />
+            <mxPoint x="8133.37" y="2496.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-20" value="Calculate the absolute error" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;fontStyle=1;strokeWidth=3;shadow=1;glass=0;spacingTop=1;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="8028.37" y="2755" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=25;fontStyle=1;strokeWidth=3;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" edge="1" parent="1" source="mESIo0_xZk16t4dYy4Dm-18" target="mESIo0_xZk16t4dYy4Dm-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8133.37" y="2576.5" as="sourcePoint" />
+            <mxPoint x="8133.37" y="2626.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-22" value="&lt;font&gt;End&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Arial;fontStyle=1;fontSize=40;horizontal=1;labelBackgroundColor=none;strokeWidth=3;perimeterSpacing=0;shadow=1;gradientColor=none;fillStyle=solid;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="8118.37" y="2885" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=25;fontStyle=1;strokeWidth=3;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" edge="1" parent="1" source="mESIo0_xZk16t4dYy4Dm-20" target="mESIo0_xZk16t4dYy4Dm-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8134.37" y="2845" as="sourcePoint" />
+            <mxPoint x="8134.37" y="2895" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-24" value="Empirical Mode Decomposition" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;fontStyle=1;strokeWidth=3;shadow=1;glass=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="7988.37" y="1452" width="330" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=25;fontStyle=1;strokeWidth=3;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" edge="1" parent="1" source="mESIo0_xZk16t4dYy4Dm-24" target="mESIo0_xZk16t4dYy4Dm-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8166.37" y="1685" as="sourcePoint" />
+            <mxPoint x="8166.37" y="1735" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-26" value="Teager-Kaiser Operator" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;fontStyle=1;strokeWidth=3;shadow=1;glass=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="7988.37" y="1585" width="330" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=25;fontStyle=1;strokeWidth=3;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" edge="1" parent="1" source="mESIo0_xZk16t4dYy4Dm-26" target="mESIo0_xZk16t4dYy4Dm-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8157.37" y="1745" as="sourcePoint" />
+            <mxPoint x="8176.37" y="1897" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-28" value="$$t_{max_{half-line}}$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=55;fontStyle=0;strokeWidth=3;shadow=1;glass=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="7348.37" y="2249" width="300" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" edge="1" parent="1" source="mESIo0_xZk16t4dYy4Dm-28" target="mESIo0_xZk16t4dYy4Dm-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7572.87" y="2610" as="targetPoint" />
+            <mxPoint x="7918.87" y="2619" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-30" value="Single-ended" style="text;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=40;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;whiteSpace=wrap;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="8459.49" y="2718.25" width="272.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-31" value="Double-ended" style="text;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=40;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;whiteSpace=wrap;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="8201.369999999999" y="2115" width="296" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" edge="1" parent="1" source="mESIo0_xZk16t4dYy4Dm-41" target="mESIo0_xZk16t4dYy4Dm-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8699.369999999999" y="2392" as="targetPoint" />
+            <mxPoint x="8217.369999999999" y="1875" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="8608.369999999999" y="1924" />
+              <mxPoint x="8608.369999999999" y="2105" />
+              <mxPoint x="8179.37" y="2105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=25;fontStyle=1;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" edge="1" parent="1" source="mESIo0_xZk16t4dYy4Dm-41" target="mESIo0_xZk16t4dYy4Dm-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8577.369999999999" y="2091.76" as="sourcePoint" />
+            <mxPoint x="8786.369999999999" y="2084.38" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" edge="1" parent="1" source="mESIo0_xZk16t4dYy4Dm-2" target="mESIo0_xZk16t4dYy4Dm-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8658.369999999999" y="2503.4999999999995" as="targetPoint" />
+            <mxPoint x="8590.369999999999" y="2161.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-35" value="Single-phase branch" style="text;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=40;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;whiteSpace=wrap;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="8821.369999999999" y="1740" width="279" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-36" value="Downsampling" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;fontStyle=1;strokeWidth=3;shadow=1;glass=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="8461.369999999999" y="1349.5" width="298" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=25;fontStyle=1;strokeWidth=3;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" edge="1" parent="1" source="mESIo0_xZk16t4dYy4Dm-36" target="mESIo0_xZk16t4dYy4Dm-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8580.369999999999" y="1607.76" as="sourcePoint" />
+            <mxPoint x="8580.369999999999" y="1657.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-38" value="Calculate signal energy&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;fontStyle=1;strokeWidth=3;shadow=1;glass=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="8459.369999999999" y="1441" width="300" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=25;fontStyle=1;strokeWidth=3;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" edge="1" parent="1" source="mESIo0_xZk16t4dYy4Dm-38" target="mESIo0_xZk16t4dYy4Dm-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8590.369999999999" y="1717.76" as="sourcePoint" />
+            <mxPoint x="8571.369999999999" y="1642.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-40" value="Normalize signal energy" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;fontStyle=1;strokeWidth=3;shadow=1;glass=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="8464.119999999999" y="1578.75" width="291.5" height="103.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-41" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Fault&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;severity &amp;gt; 0.1&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Arial;fontSize=40;strokeWidth=3;shadow=1;spacingTop=-43;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;horizontal=1;spacing=3;spacingRight=-4;spacingBottom=2;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="8463.59" y="1715.5" width="293.56" height="208.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=25;fontStyle=1;strokeWidth=3;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" edge="1" parent="1" source="mESIo0_xZk16t4dYy4Dm-40" target="mESIo0_xZk16t4dYy4Dm-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8571.029999999999" y="1709.76" as="sourcePoint" />
+            <mxPoint x="8571.029999999999" y="1736.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" edge="1" parent="1" source="mESIo0_xZk16t4dYy4Dm-9" target="mESIo0_xZk16t4dYy4Dm-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8359.369999999999" y="1525" as="targetPoint" />
+            <mxPoint x="8279.369999999999" y="1488.29" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-44" value="Three-phase &#xa;branch" style="text;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=40;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;whiteSpace=wrap;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="8348.369999999999" y="1960" width="260" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-45" value="Double-ended" style="text;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=40;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;whiteSpace=wrap;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="7513.12" y="2465" width="305.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-46" value="Faulty branch classification" style="text;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=40;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;whiteSpace=wrap;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="8469.869999999999" y="1256" width="279" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-47" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;First half&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;segment?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Arial;fontSize=40;strokeWidth=3;shadow=1;spacingTop=1;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="7528.37" y="1844.26" width="309" height="210.74" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-48" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;fontStyle=1;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="7513.12" y="2030" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-49" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=40;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="7802.37" y="2025" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-50" value="$$t_{max_{line}}$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=55;fontStyle=0;strokeWidth=3;shadow=1;glass=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="7758.37" y="2249" width="210" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-51" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=3;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="7823.37" y="2406.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-52" value="Pre-location of the fault" style="text;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=40;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;whiteSpace=wrap;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="7559.24" y="1723" width="247.25" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=25;fontStyle=1;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" edge="1" parent="1" source="mESIo0_xZk16t4dYy4Dm-50" target="mESIo0_xZk16t4dYy4Dm-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7810.61" y="2262.5" as="sourcePoint" />
+            <mxPoint x="7827.37" y="2303" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" edge="1" parent="1" source="mESIo0_xZk16t4dYy4Dm-51" target="mESIo0_xZk16t4dYy4Dm-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7976.87" y="2343" as="targetPoint" />
+            <mxPoint x="7826.8099999999995" y="2452.9999999999995" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-55" value="Adaptive Time Windowing" style="text;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=40;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;whiteSpace=wrap;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="7465.24" y="2134.37" width="435.25" height="54.75" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-56" value="Equation (9)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;fontStyle=1;strokeWidth=3;shadow=1;glass=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="8465.25" y="2385" width="262.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-57" value="Equation (10)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;fontStyle=1;strokeWidth=3;shadow=1;glass=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="8801.869999999999" y="2628.25" width="288" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-58" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=3;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="8556.369999999999" y="2613.25" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" edge="1" parent="1" source="mESIo0_xZk16t4dYy4Dm-56" target="mESIo0_xZk16t4dYy4Dm-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8331.369999999999" y="2553" as="targetPoint" />
+            <mxPoint x="8470.369999999999" y="2495" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" edge="1" parent="1" source="mESIo0_xZk16t4dYy4Dm-2" target="mESIo0_xZk16t4dYy4Dm-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8865.369999999999" y="2403.7599999999998" as="targetPoint" />
+            <mxPoint x="8828.369999999999" y="2231.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" edge="1" parent="1" source="mESIo0_xZk16t4dYy4Dm-57" target="mESIo0_xZk16t4dYy4Dm-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8438.369999999999" y="2508" as="targetPoint" />
+            <mxPoint x="8577.369999999999" y="2450" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" edge="1" parent="1" source="mESIo0_xZk16t4dYy4Dm-58" target="mESIo0_xZk16t4dYy4Dm-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8381.369999999999" y="2520" as="targetPoint" />
+            <mxPoint x="8520.369999999999" y="2462" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" edge="1" parent="1" source="mESIo0_xZk16t4dYy4Dm-47" target="mESIo0_xZk16t4dYy4Dm-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7999.87" y="1908.5" as="targetPoint" />
+            <mxPoint x="7888.37" y="1935.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" edge="1" parent="1" source="mESIo0_xZk16t4dYy4Dm-47" target="mESIo0_xZk16t4dYy4Dm-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7564.61" y="2181.5" as="targetPoint" />
+            <mxPoint x="7543.61" y="1936.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-65" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;fontStyle=1;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="8669.369999999999" y="2115" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-66" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=40;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="8868.369999999999" y="2319" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mESIo0_xZk16t4dYy4Dm-67" value="Pre-location of the fault" style="text;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=40;horizontal=1;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;whiteSpace=wrap;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.cdnfonts.com%2Fcss%2Farial-2;" vertex="1" parent="1">
+          <mxGeometry x="8958.369999999999" y="1919" width="249" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
